@@ -1,7 +1,7 @@
-# La m�thode [XP][XP]
+# La méthode [XP][XP]
 >Extreme programming (XP) is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted.
 
-# Les activit�s 
+# Les activités 
 1. Coding
 2. Testing
 3. Listening
@@ -56,6 +56,8 @@ System-wide integration testing was encouraged, initially, as a daily end-of-day
 * All code must pass all unit tests before it can be released.
 * When a bug is found tests are created before the bug is addressed (a bug is not an error in logic, it is a test that was not written)
 * Acceptance tests are run often and the results are published
+* Cette méthode garantit donc une meilleur productivité elle consiste à livrer le client par tranche et au fur à mesure
+* ceci amène la culture des test il est toujours important de se rassurer de ce que l'on fait avant tout 
  
 Suite : [le build pipeline](../02-outils/00-le-build-pipeline.md)
 
